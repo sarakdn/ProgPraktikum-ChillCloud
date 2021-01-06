@@ -1,4 +1,4 @@
-<img src="frontend/chillcloud-frontend/src/assets/cloudversify-brands.png" align="right" />
+<img src="frontend/chillcloud-frontend/src/assets/cloudversify-brands.png" align="right" width="100px" height="83px" />
 
 # ChillCloud
 ChillCLoud is a cloud computing system with integrated self-healing concepts. The product itself is a cloud platform on which users can host applications. Cloud System wasn't designed by us, OpenStack  system has been used instead. We intend to analyze possible errors in a cloud computing environment on the basis of existing literature. Based on this, we will develop a process that collects data from the system, analyzes it and reacts accordingly in the event of an error.
