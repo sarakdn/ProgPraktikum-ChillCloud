@@ -1,0 +1,39 @@
+//Color Variables used through the app
+$red: #FF3400;
+$grey: #8F949B;
+$pink: #c850c0;
+$purple-dark: #4158d0;
+$purple-light: #7a8ade;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(-135deg, $pink, $purple-dark)
+}
+
+header {
+  margin: 50px 0px;
+  text-align: center;
+  display: flex;
+
+  h2 {
+    text-transform: uppercase;
+    margin: 0;
+    color: white;
+  }
+
+  p {
+    font-size: 1em;
+  }
+
+}
