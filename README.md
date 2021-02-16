@@ -6,7 +6,7 @@ ChillCLoud is a cloud computing system with integrated self-healing concepts. Th
 # OpenStack setup
 To provide customers private cloud with IaaS OpenStack was deployed using Kolla Ansible on bare metal servers. A complete overview of the cloud system is possible to get through Horizon Dashboard. We fist deployed single node Open Stack as a POC to explore learning curve of OpenStack. Then we redeployed the whole as multinode.
 
-# VM creation in OpenStack
+# VM's creation in OpenStack
 After doing some research, by adjusting the images, flavors, key pairs and networks, we launched 4 instances running on Ubuntu 16.04 using Horizon. 
 
 # Kubernetes deployment with Kubespray
